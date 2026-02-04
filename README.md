@@ -27,5 +27,5 @@ The vectorized method uses NumPy arrays to compute everything at once, which is 
 After running it, the vectorized version was clearly faster. The loop took longer since it had to repeat the calculation many times. This shows that vectorization is better for large data, even though both methods give similar results.
 
 
-#Acknowledgements
+## Acknowledgements
 I’d like to acknowledge Dr. Rumpf for his support in strengthening my understanding of math in Python. I also used Google AI and ChatGPT to clarify how certain functions work and to correct syntax errors.
