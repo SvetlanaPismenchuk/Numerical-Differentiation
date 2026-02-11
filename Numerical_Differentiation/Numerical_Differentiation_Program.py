@@ -24,3 +24,5 @@ gprime_vec = dydx(g, x)
 
 end = time.time()
 print("Vectorized time:", end - start)
+
+input()
